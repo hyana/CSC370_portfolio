@@ -4,9 +4,9 @@ Smith College Fall 2022 CSC 370 Semester Portfolio by Hyana Kang
 ## Sub-directories
 _The test images in the `images` folder are from [5]_
 
-- efros_leung: Python implementation of Efros and Leung's pixel-based texture synthesis algorithm based on [2, 3]
+- `efros_leung`: Python implementation of Efros and Leung's pixel-based texture synthesis algorithm based on [2, 3]
 
-- efros_freeman Implementation: Python implementation of Efros and Freeman's patch-based texture synthesis algorithm based on [5]
+- `efros_freeman`: Python implementation of Efros and Freeman's patch-based texture synthesis algorithm based on [5]
 
 ## Acknowledgements
 [1] A. A. Efros and T. K. Leung, “Texture synthesis by non-parametric sampling,” in Proceedings of the Seventh IEEE International Conference on Computer Vision, Kerkyra, Greece, 1999, pp. 1033–1038 vol.2. doi: 10.1109/ICCV.1999.790383.
